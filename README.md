@@ -1,6 +1,6 @@
 ## Data Description
 
-This repository contains data necessary for reproduction of original tables and figures presented in Maliszewski, "It takes a village to write a book: mapping anonymous contributions in Stephen Langton’s Quaestiones Theologiae" (https://doi.org/10.1017/chr.2025.10004).
+This repository contains data necessary for the reproduction of original tables and figures presented in Maliszewski, "It takes a village to write a book: mapping anonymous contributions in Stephen Langton’s Quaestiones Theologiae" (https://doi.org/10.1017/chr.2025.10004).
 
 For Figure 1 (stemma codicum), please consult Stephen Langton, _Quaestiones Theologiae_, III.1, ed. Bieniak, Wciórka, pp. 87-88.
 
