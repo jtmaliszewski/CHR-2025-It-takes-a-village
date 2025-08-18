@@ -4,7 +4,7 @@ This repository contains data necessary for the reproduction of original tables 
 
 For Figure 1 (stemma codicum), please consult Stephen Langton, _Quaestiones Theologiae_, III.1, ed. Bieniak, Wciórka, pp. 87-88.
 
-For Figure 2, refer to scripts_plotting_with_r / Plotting_PCA_Aqunas_Courson_Langton.R
+For Figure 2, refer to scripts_plotting_with_r / Plotting_PCA_Aquinas_Courson_Langton.R
 
 For Figure 3, refer to scripts_plotting_with_r / Plotting_PCA_Langton_by_stemma.R
 
