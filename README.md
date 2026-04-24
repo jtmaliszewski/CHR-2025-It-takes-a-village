@@ -11,3 +11,7 @@ For Figure 3, refer to scripts_plotting_with_r / Plotting_PCA_Langton_by_stemma.
 Note that you can run both scripts with relevant data loading the entire R project; see scripts_plotting_with_r / scripts_plotting_with_r.Rproj
 
 For Table 1, refer to data available in data_Langton_only / qq_keys.txt
+
+## Funding Statement
+
+This work was supported by the National Science Centre, Poland, project 2022/45/N/HS1/03747.
